@@ -1,0 +1,17 @@
+*.pyc
+*.txt
+*.csv
+.coverage
+.cache
+*.swp
+*.tsv
+htmlcov
+*.log
+*.class
+bin/
+lib/
+build/
+dist/
+include/
+*.egg-info/
+
